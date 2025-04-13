@@ -1,5 +1,5 @@
 # Blackjack_Game
-This repository contains a Blackjack game built in Python 3 using Object-Oriented Programming (OOP) . The project simulates a console-based Blackjack game with a focus on modular design and interactive gameplay.
+Creared a Blackjack game in Python 3 using Object-Oriented Programming (OOP) . The project simulates a console-based Blackjack game with a focus on modular design and interactive gameplay.
 
 Key Features:
 
